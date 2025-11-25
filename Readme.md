@@ -26,3 +26,8 @@ Insertamos cinco registros inventados en la tabla nueva
 
 ![Tarea14SXE4.png](Imagenes/Tarea14SXE4.png)
 
+Apartado 3:
+
+Realiza una consulta donde se muestren todos los datos de la tabla ordenados por fechaContacto, de modo que en la primera fila salga el que tenga la fecha más reciente
+
+![Tarea14SXE5.png](Imagenes/Tarea14SXE5.png)
