@@ -8,3 +8,11 @@ Al acceder a los puertos correspondientes, nos lleva a las páginas de Odoo y de
 
 A través de la página de Odoo, rellenamos los campos y creamos la base de datos, seleccionando la opción "Demo Data"
 
+Después de crearla podemos acceder a ella a través de pgAdmin.
+
+En pgAdmin, debemos crear una nueva conexión al servidor de la base de datos para conectarnos a ella.
+Después de esto podemos ver nuestras bases de datos instaladas anteriormente desde Odoo(Facturación y Consultas).
+
+En nuestra base de datos, creamos una nueva tabla llamada "EmpresasFCT", y la completamos con los elementos requeridos.
+
+![Tarea14SXE3.png](Imagenes/Tarea14SXE3.png)
