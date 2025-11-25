@@ -42,3 +42,15 @@ Ordenados alfabeticamente por el nombre comercial de la empresa
 
 ![Tarea14SXE6.png](Imagenes/Tarea14SXE6.png)
 
+Apartado 5:
+
+Obtén un listado de empresas proveedoras, que han emitido algún reembolso:
+
+Nombre de la empresa
+Número de la factura
+Fecha de la factura
+Total factura SIN impuestos
+
+Ordenadas por fecha de factura de modo que la primera sea la más reciente
+
+![Tarea14SXE7.png](Imagenes/Tarea14SXE7.png)
