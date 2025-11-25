@@ -31,3 +31,14 @@ Apartado 3:
 Realiza una consulta donde se muestren todos los datos de la tabla ordenados por fechaContacto, de modo que en la primera fila salga el que tenga la fecha más reciente
 
 ![Tarea14SXE5.png](Imagenes/Tarea14SXE5.png)
+
+Apartado 4:
+
+Realiza una consulta que permita obtener un listado de todos los contactos de Odoo con la siguiente información:
+Nombre
+Cuya ciudad NO sea Tracy
+Nombre comercial de la empresa
+Ordenados alfabeticamente por el nombre comercial de la empresa
+
+![Tarea14SXE6.png](Imagenes/Tarea14SXE6.png)
+
