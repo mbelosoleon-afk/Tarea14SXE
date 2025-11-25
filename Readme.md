@@ -54,3 +54,14 @@ Total factura SIN impuestos
 Ordenadas por fecha de factura de modo que la primera sea la más reciente
 
 ![Tarea14SXE7.png](Imagenes/Tarea14SXE7.png)
+
+Apartado 6:
+
+Obtén un listado de empresas de clientes, a las que se les ha emitido más de dos facturas de venta confirmadas, mostrando los siguientes datos:
+
+Nombre de la empresa
+Número de facturas
+Total facturado SIN IMPUESTOS
+
+![Tarea14SXE8.png](Imagenes/Tarea14SXE8.png)
+
