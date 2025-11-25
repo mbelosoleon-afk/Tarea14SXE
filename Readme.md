@@ -65,3 +65,8 @@ Total facturado SIN IMPUESTOS
 
 ![Tarea14SXE8.png](Imagenes/Tarea14SXE8.png)
 
+Apartado 7:
+
+Crea una sentencia que actualice el correo de los contactos cuyo dominio es @bilbao.example.com a @bilbao.bizkaia.eus
+
+![Tarea14SXE9.png](Imagenes/Tarea14SXE9.png)
