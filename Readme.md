@@ -6,3 +6,5 @@ Al acceder a los puertos correspondientes, nos lleva a las páginas de Odoo y de
 
 ![Tarea14SXE2.png](Imagenes/Tarea14SXE2.png)
 
+A través de la página de Odoo, rellenamos los campos y creamos la base de datos, seleccionando la opción "Demo Data"
+
